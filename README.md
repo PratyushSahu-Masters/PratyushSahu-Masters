@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Algo Coding**
 
-- 📝 I regularly write articles on [Framework Development](Framework Development)
+- 📝 I regularly write articles on **Framework Development**
 
 - 💬 Ask me about **my height**
 
