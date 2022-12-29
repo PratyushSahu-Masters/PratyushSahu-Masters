@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pratyush-sahu-9255a7103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratyush-sahu-9255a7103" height="30" width="40" /></a>
 <a href="https://fb.com/pratyush.sahu.90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pratyush.sahu.90" height="30" width="40" /></a>
-<a href="https://instagram.com/you_are_ugly_but_hell_i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="you_are_ugly_but_hell_i" height="30" width="40" /></a>
+<a href="https://instagram.com/whiskies_trooper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="you_are_ugly_but_hell_i" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
